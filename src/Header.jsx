@@ -1,9 +1,11 @@
 import React from 'react';
+import './Header.css';
+
 function Header() {
   return(
     <header>
       <img
-        src='http://www.pngall.com/wp-content/uploads/2016/05/Trollface.png'
+        src='https://upload.wikimedia.org/wikipedia/en/9/9a/Trollface_non-free.png'
         alt='Problem?'
       />
       <p>Meme Generator</p>
